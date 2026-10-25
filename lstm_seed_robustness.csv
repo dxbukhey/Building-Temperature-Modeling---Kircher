@@ -1,0 +1,2 @@
+seed,best_epoch,validation_one_step_rmse_C,validation_8h_rmse_C,validation_24h_rmse_C,validation_open_loop_rmse_C
+42,105,0.04355841221635144,0.2634059827206483,0.46433778785737007,0.6912202607639845

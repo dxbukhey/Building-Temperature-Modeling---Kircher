@@ -1,0 +1,14 @@
+feature,importance
+sin_tod,0.22778979
+electricity,0.12419937
+occupancy,0.10684877
+q,0.08810021
+cos_tod,0.08097353
+dni,0.08030528
+dhi,0.07053444
+theta_minus_T,0.06513769
+ghi,0.051766064
+weekend,0.04827528
+wetbulb_depression,0.02811936
+steam,0.027950164
+constant,0.0
