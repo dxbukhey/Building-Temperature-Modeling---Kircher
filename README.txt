@@ -8,7 +8,5 @@ KIRCHER RESEARCH — ESSENTIAL PROJECT FILES
 6. final_feature_importance.csv — XGBoost feature importance
 7. lstm_seed_robustness.csv — LSTM random-seed checks
 
-Excluded: intermediate scripts/results, duplicate comparisons, the generated-artifact helper, original reference PDFs, and the saved model checkpoint (final_verify.py retrains it).
-
 Note: final_verify.py assumes files live in /mnt/data/ and requires numpy, pandas, torch, scikit-learn, xgboost, and matplotlib. Edit P in the script to run in another folder.
 Held-out test data is not included.
